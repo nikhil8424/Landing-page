@@ -4,4 +4,4 @@ we have created a instagram (image) for landing on our website and landing page 
 
 # screenshot
 
-![view](https://github.com/nikhil8424/Landing-page/edit/main/website.jpg)
+![view](https://github.com/nikhil8424/Landing-page/blob/main/website.jpg)
